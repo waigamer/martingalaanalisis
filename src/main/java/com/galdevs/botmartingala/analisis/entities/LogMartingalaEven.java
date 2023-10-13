@@ -36,4 +36,6 @@ public class LogMartingalaEven {
     private double gap;
 
     private int exito;
+    
+    private long ttl;
 }
